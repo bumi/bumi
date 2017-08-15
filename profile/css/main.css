@@ -11,3 +11,8 @@
 .content-section .resume-item {
   margin-bottom: 1.5rem;
 }
+
+.resume-item .left {
+  float: left;
+  margin-right: 2rem;
+}
