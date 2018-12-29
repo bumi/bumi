@@ -3,7 +3,9 @@
 .page-header .executive-summary {
   text-align: justify;
 }
-
+.center {
+  text-align: center;
+}
 .resume-item-list li {
   margin-bottom: 10px;
 }
