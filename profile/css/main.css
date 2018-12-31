@@ -22,6 +22,11 @@
   margin-right: 2rem;
 }
 
+.executive-summary img.profile {
+  vertical-align: middle;
+  width: 16px;
+}
+
 .skills ul {
   float: left;
 }
