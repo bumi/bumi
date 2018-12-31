@@ -21,3 +21,10 @@
   float: left;
   margin-right: 2rem;
 }
+
+.skills ul {
+  float: left;
+}
+.clear {
+  clear: both;
+}
