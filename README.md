@@ -10,5 +10,6 @@ Before that I’ve been working with Railslove a software consultancy which I ha
 
 - 📫 Reach me on twitter: [@bumi](https://twitter.com/Bumi), fediverse: [bumi@kosmos.social](https://kosmos.social/@bumi)
 - 📖 More details on my blog: [michaelbumann.com](https://michaelbumann.com/)
+- ⚡️bumi@getalby.com
 
 PGP fingerprint: 60E0 4E32 C48B 6900 41ED  99E4 8ABD EEC3 CEF8 5746
